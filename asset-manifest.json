@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_tooltip/static/css/main.e88f22ba.css",
+    "main.js": "/react_tooltip/static/js/main.6c412bd6.js",
+    "static/media/w2.jpg": "/react_tooltip/static/media/w2.94933f7da2dce6044380.jpg",
+    "index.html": "/react_tooltip/index.html",
+    "main.e88f22ba.css.map": "/react_tooltip/static/css/main.e88f22ba.css.map",
+    "main.6c412bd6.js.map": "/react_tooltip/static/js/main.6c412bd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88f22ba.css",
+    "static/js/main.6c412bd6.js"
+  ]
+}
